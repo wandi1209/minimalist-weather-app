@@ -18,11 +18,10 @@ A simple and clean weather application built with **Flutter** that shows real-ti
 - **flutter_dotenv** (manage API keys securely)
 
 ## 📸 Screenshots
-> _(Tambahkan screenshot aplikasi di sini)_
 
 |     Weather Detail    |
 |-----------------------|
-| ![Detail](assets/IMG1.png) | ![Detail](assets/IMG2.png) |
+| <img src="assets/IMG1.png" alt="Detail1" width="200"/> <img src="assets/IMG2.png" alt="Detail2" width="200"/> |
 
 ## ⚙️ Installation
 1. Clone this repository:
