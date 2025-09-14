@@ -20,9 +20,9 @@ A simple and clean weather application built with **Flutter** that shows real-ti
 ## 📸 Screenshots
 > _(Tambahkan screenshot aplikasi di sini)_
 
-| Home | Weather Detail |
-|------|----------------|
-| ![Home](assets/IMG1.png) | ![Detail](assets/IMG2.png) |
+|     Weather Detail    |
+|-----------------------|
+| ![Detail](assets/IMG1.png) | ![Detail](assets/IMG2.png) |
 
 ## ⚙️ Installation
 1. Clone this repository:
